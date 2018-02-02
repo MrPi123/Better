@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Versatile.iml" filepath="$PROJECT_DIR$/Versatile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Better2.iml" filepath="$PROJECT_DIR$/Better2.iml" />
+      <module fileurl="file://D:\Better2\Versatile.iml" filepath="D:\Better2\Versatile.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Better2\app\app.iml" filepath="D:\Better2\app\app.iml" />
       <module fileurl="file://$PROJECT_DIR$/calendar/calendar.iml" filepath="$PROJECT_DIR$/calendar/calendar.iml" />
+      <module fileurl="file://D:\Better2\calendar\calendar.iml" filepath="D:\Better2\calendar\calendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/floattab/floattab.iml" filepath="$PROJECT_DIR$/floattab/floattab.iml" />
+      <module fileurl="file://D:\Better2\floattab\floattab.iml" filepath="D:\Better2\floattab\floattab.iml" />
       <module fileurl="file://$PROJECT_DIR$/materialcalendar/materialcalendar.iml" filepath="$PROJECT_DIR$/materialcalendar/materialcalendar.iml" />
+      <module fileurl="file://D:\Better2\materialcalendar\materialcalendar.iml" filepath="D:\Better2\materialcalendar\materialcalendar.iml" />
       <module fileurl="file://$PROJECT_DIR$/vtitlebar/vtitlebar.iml" filepath="$PROJECT_DIR$/vtitlebar/vtitlebar.iml" />
+      <module fileurl="file://D:\Better2\vtitlebar\vtitlebar.iml" filepath="D:\Better2\vtitlebar\vtitlebar.iml" />
     </modules>
   </component>
 </project>
